@@ -42,7 +42,7 @@
 
   - [Dillinger](https://dillinger.io)
 
-[https://mdg.imgix.net/assets/images/dillinger.png?auto=format&fit=clip&q=40&w=1080](https://dillinger.io)
+[!Build Status](https://mdg.imgix.net/assets/images/dillinger.png?auto=format&fit=clip&q=40&w=1080)](https://dillinger.io)
 
 
 
